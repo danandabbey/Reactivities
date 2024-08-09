@@ -1,0 +1,11 @@
+/home/dan/Programming/Udemy Course/Reactivities/Domain/bin/Debug/net8.0/Domain.deps.json
+/home/dan/Programming/Udemy Course/Reactivities/Domain/bin/Debug/net8.0/Domain.dll
+/home/dan/Programming/Udemy Course/Reactivities/Domain/bin/Debug/net8.0/Domain.pdb
+/home/dan/Programming/Udemy Course/Reactivities/Domain/obj/Debug/net8.0/Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/dan/Programming/Udemy Course/Reactivities/Domain/obj/Debug/net8.0/Domain.AssemblyInfoInputs.cache
+/home/dan/Programming/Udemy Course/Reactivities/Domain/obj/Debug/net8.0/Domain.AssemblyInfo.cs
+/home/dan/Programming/Udemy Course/Reactivities/Domain/obj/Debug/net8.0/Domain.csproj.CoreCompileInputs.cache
+/home/dan/Programming/Udemy Course/Reactivities/Domain/obj/Debug/net8.0/Domain.dll
+/home/dan/Programming/Udemy Course/Reactivities/Domain/obj/Debug/net8.0/refint/Domain.dll
+/home/dan/Programming/Udemy Course/Reactivities/Domain/obj/Debug/net8.0/Domain.pdb
+/home/dan/Programming/Udemy Course/Reactivities/Domain/obj/Debug/net8.0/ref/Domain.dll
