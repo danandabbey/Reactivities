@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0w5KC4OK9Hq1BiRBVFQdBmxnjb2bvwd99LyoHuIxRPD9xGcQKU1KujTr26HwNTkYl838FEwhD40+pFTYgzC+XA==",
+  "dgSpecHash": "Dq/3an0yDW9EHr4a1B9iEAwxcqm/Gk0kWUakYGaHqFnmgGjNmG4pMinehxwLgm/vAU6E/whikM2R3kfaokVvvQ==",
   "success": true,
-  "projectFilePath": "/home/dan/Programming/Udemy Course/Reactivities/Domain/Domain.csproj",
+  "projectFilePath": "/home/dan/RiderProjects/Reactivities/Domain/Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

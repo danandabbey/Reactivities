@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/dan/Programming/Udemy Course/Reactivities/Application/Application.csproj": {}
+    "/home/dan/RiderProjects/Reactivities/Application/Application.csproj": {}
   },
   "projects": {
-    "/home/dan/Programming/Udemy Course/Reactivities/Application/Application.csproj": {
+    "/home/dan/RiderProjects/Reactivities/Application/Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/dan/Programming/Udemy Course/Reactivities/Application/Application.csproj",
+        "projectUniqueName": "/home/dan/RiderProjects/Reactivities/Application/Application.csproj",
         "projectName": "Application",
-        "projectPath": "/home/dan/Programming/Udemy Course/Reactivities/Application/Application.csproj",
+        "projectPath": "/home/dan/RiderProjects/Reactivities/Application/Application.csproj",
         "packagesPath": "/home/dan/.nuget/packages/",
-        "outputPath": "/home/dan/Programming/Udemy Course/Reactivities/Application/obj/",
+        "outputPath": "/home/dan/RiderProjects/Reactivities/Application/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/dan/.nuget/NuGet/NuGet.Config"
@@ -26,11 +26,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "/home/dan/Programming/Udemy Course/Reactivities/Domain/Domain.csproj": {
-                "projectPath": "/home/dan/Programming/Udemy Course/Reactivities/Domain/Domain.csproj"
+              "/home/dan/RiderProjects/Reactivities/Domain/Domain.csproj": {
+                "projectPath": "/home/dan/RiderProjects/Reactivities/Domain/Domain.csproj"
               },
-              "/home/dan/Programming/Udemy Course/Reactivities/Persistence/Persistence.csproj": {
-                "projectPath": "/home/dan/Programming/Udemy Course/Reactivities/Persistence/Persistence.csproj"
+              "/home/dan/RiderProjects/Reactivities/Persistence/Persistence.csproj": {
+                "projectPath": "/home/dan/RiderProjects/Reactivities/Persistence/Persistence.csproj"
               }
             }
           }
@@ -64,14 +64,14 @@
         }
       }
     },
-    "/home/dan/Programming/Udemy Course/Reactivities/Domain/Domain.csproj": {
+    "/home/dan/RiderProjects/Reactivities/Domain/Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/dan/Programming/Udemy Course/Reactivities/Domain/Domain.csproj",
+        "projectUniqueName": "/home/dan/RiderProjects/Reactivities/Domain/Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "/home/dan/Programming/Udemy Course/Reactivities/Domain/Domain.csproj",
+        "projectPath": "/home/dan/RiderProjects/Reactivities/Domain/Domain.csproj",
         "packagesPath": "/home/dan/.nuget/packages/",
-        "outputPath": "/home/dan/Programming/Udemy Course/Reactivities/Domain/obj/",
+        "outputPath": "/home/dan/RiderProjects/Reactivities/Domain/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/dan/.nuget/NuGet/NuGet.Config"
@@ -117,14 +117,14 @@
         }
       }
     },
-    "/home/dan/Programming/Udemy Course/Reactivities/Persistence/Persistence.csproj": {
+    "/home/dan/RiderProjects/Reactivities/Persistence/Persistence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/dan/Programming/Udemy Course/Reactivities/Persistence/Persistence.csproj",
+        "projectUniqueName": "/home/dan/RiderProjects/Reactivities/Persistence/Persistence.csproj",
         "projectName": "Persistence",
-        "projectPath": "/home/dan/Programming/Udemy Course/Reactivities/Persistence/Persistence.csproj",
+        "projectPath": "/home/dan/RiderProjects/Reactivities/Persistence/Persistence.csproj",
         "packagesPath": "/home/dan/.nuget/packages/",
-        "outputPath": "/home/dan/Programming/Udemy Course/Reactivities/Persistence/obj/",
+        "outputPath": "/home/dan/RiderProjects/Reactivities/Persistence/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/dan/.nuget/NuGet/NuGet.Config"
@@ -139,8 +139,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "/home/dan/Programming/Udemy Course/Reactivities/Domain/Domain.csproj": {
-                "projectPath": "/home/dan/Programming/Udemy Course/Reactivities/Domain/Domain.csproj"
+              "/home/dan/RiderProjects/Reactivities/Domain/Domain.csproj": {
+                "projectPath": "/home/dan/RiderProjects/Reactivities/Domain/Domain.csproj"
               }
             }
           }
@@ -154,6 +154,12 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

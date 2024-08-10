@@ -37,3 +37,43 @@
 /home/dan/Programming/Udemy Course/Reactivities/API/obj/Debug/net8.0/API.pdb
 /home/dan/Programming/Udemy Course/Reactivities/API/obj/Debug/net8.0/API.genruntimeconfig.cache
 /home/dan/Programming/Udemy Course/Reactivities/API/obj/Debug/net8.0/ref/API.dll
+/home/dan/RiderProjects/Reactivities/API/bin/Debug/net8.0/appsettings.Development.json
+/home/dan/RiderProjects/Reactivities/API/bin/Debug/net8.0/appsettings.json
+/home/dan/RiderProjects/Reactivities/API/bin/Debug/net8.0/API
+/home/dan/RiderProjects/Reactivities/API/bin/Debug/net8.0/API.deps.json
+/home/dan/RiderProjects/Reactivities/API/bin/Debug/net8.0/API.runtimeconfig.json
+/home/dan/RiderProjects/Reactivities/API/bin/Debug/net8.0/API.dll
+/home/dan/RiderProjects/Reactivities/API/bin/Debug/net8.0/API.pdb
+/home/dan/RiderProjects/Reactivities/API/bin/Debug/net8.0/Microsoft.AspNetCore.OpenApi.dll
+/home/dan/RiderProjects/Reactivities/API/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/home/dan/RiderProjects/Reactivities/API/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/home/dan/RiderProjects/Reactivities/API/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/dan/RiderProjects/Reactivities/API/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/home/dan/RiderProjects/Reactivities/API/bin/Debug/net8.0/Application.dll
+/home/dan/RiderProjects/Reactivities/API/bin/Debug/net8.0/Domain.dll
+/home/dan/RiderProjects/Reactivities/API/bin/Debug/net8.0/Persistence.dll
+/home/dan/RiderProjects/Reactivities/API/bin/Debug/net8.0/Application.pdb
+/home/dan/RiderProjects/Reactivities/API/bin/Debug/net8.0/Domain.pdb
+/home/dan/RiderProjects/Reactivities/API/bin/Debug/net8.0/Persistence.pdb
+/home/dan/RiderProjects/Reactivities/API/obj/Debug/net8.0/API.csproj.AssemblyReference.cache
+/home/dan/RiderProjects/Reactivities/API/obj/Debug/net8.0/API.GeneratedMSBuildEditorConfig.editorconfig
+/home/dan/RiderProjects/Reactivities/API/obj/Debug/net8.0/API.AssemblyInfoInputs.cache
+/home/dan/RiderProjects/Reactivities/API/obj/Debug/net8.0/API.AssemblyInfo.cs
+/home/dan/RiderProjects/Reactivities/API/obj/Debug/net8.0/API.csproj.CoreCompileInputs.cache
+/home/dan/RiderProjects/Reactivities/API/obj/Debug/net8.0/API.MvcApplicationPartsAssemblyInfo.cs
+/home/dan/RiderProjects/Reactivities/API/obj/Debug/net8.0/API.MvcApplicationPartsAssemblyInfo.cache
+/home/dan/RiderProjects/Reactivities/API/obj/Debug/net8.0/API.sourcelink.json
+/home/dan/RiderProjects/Reactivities/API/obj/Debug/net8.0/staticwebassets.build.json
+/home/dan/RiderProjects/Reactivities/API/obj/Debug/net8.0/staticwebassets.development.json
+/home/dan/RiderProjects/Reactivities/API/obj/Debug/net8.0/staticwebassets/msbuild.API.Microsoft.AspNetCore.StaticWebAssets.props
+/home/dan/RiderProjects/Reactivities/API/obj/Debug/net8.0/staticwebassets/msbuild.build.API.props
+/home/dan/RiderProjects/Reactivities/API/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.API.props
+/home/dan/RiderProjects/Reactivities/API/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.API.props
+/home/dan/RiderProjects/Reactivities/API/obj/Debug/net8.0/staticwebassets.pack.json
+/home/dan/RiderProjects/Reactivities/API/obj/Debug/net8.0/scopedcss/bundle/API.styles.css
+/home/dan/RiderProjects/Reactivities/API/obj/Debug/net8.0/API.csproj.CopyComplete
+/home/dan/RiderProjects/Reactivities/API/obj/Debug/net8.0/API.dll
+/home/dan/RiderProjects/Reactivities/API/obj/Debug/net8.0/refint/API.dll
+/home/dan/RiderProjects/Reactivities/API/obj/Debug/net8.0/API.pdb
+/home/dan/RiderProjects/Reactivities/API/obj/Debug/net8.0/API.genruntimeconfig.cache
+/home/dan/RiderProjects/Reactivities/API/obj/Debug/net8.0/ref/API.dll

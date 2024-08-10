@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/dan/Programming/Udemy Course/Reactivities/Domain/Domain.csproj",
+      "projectUniqueName": "/home/dan/RiderProjects/Reactivities/Domain/Domain.csproj",
       "projectName": "Domain",
-      "projectPath": "/home/dan/Programming/Udemy Course/Reactivities/Domain/Domain.csproj",
+      "projectPath": "/home/dan/RiderProjects/Reactivities/Domain/Domain.csproj",
       "packagesPath": "/home/dan/.nuget/packages/",
-      "outputPath": "/home/dan/Programming/Udemy Course/Reactivities/Domain/obj/",
+      "outputPath": "/home/dan/RiderProjects/Reactivities/Domain/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/dan/.nuget/NuGet/NuGet.Config"

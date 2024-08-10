@@ -13,3 +13,19 @@
 /home/dan/Programming/Udemy Course/Reactivities/Persistence/obj/Debug/net8.0/refint/Persistence.dll
 /home/dan/Programming/Udemy Course/Reactivities/Persistence/obj/Debug/net8.0/Persistence.pdb
 /home/dan/Programming/Udemy Course/Reactivities/Persistence/obj/Debug/net8.0/ref/Persistence.dll
+/home/dan/RiderProjects/Reactivities/Persistence/bin/Debug/net8.0/Persistence.deps.json
+/home/dan/RiderProjects/Reactivities/Persistence/bin/Debug/net8.0/Persistence.dll
+/home/dan/RiderProjects/Reactivities/Persistence/bin/Debug/net8.0/Persistence.pdb
+/home/dan/RiderProjects/Reactivities/Persistence/bin/Debug/net8.0/Domain.dll
+/home/dan/RiderProjects/Reactivities/Persistence/bin/Debug/net8.0/Domain.pdb
+/home/dan/RiderProjects/Reactivities/Persistence/obj/Debug/net8.0/Persistence.csproj.AssemblyReference.cache
+/home/dan/RiderProjects/Reactivities/Persistence/obj/Debug/net8.0/Persistence.GeneratedMSBuildEditorConfig.editorconfig
+/home/dan/RiderProjects/Reactivities/Persistence/obj/Debug/net8.0/Persistence.AssemblyInfoInputs.cache
+/home/dan/RiderProjects/Reactivities/Persistence/obj/Debug/net8.0/Persistence.AssemblyInfo.cs
+/home/dan/RiderProjects/Reactivities/Persistence/obj/Debug/net8.0/Persistence.csproj.CoreCompileInputs.cache
+/home/dan/RiderProjects/Reactivities/Persistence/obj/Debug/net8.0/Persistence.sourcelink.json
+/home/dan/RiderProjects/Reactivities/Persistence/obj/Debug/net8.0/Persistence.csproj.CopyComplete
+/home/dan/RiderProjects/Reactivities/Persistence/obj/Debug/net8.0/Persistence.dll
+/home/dan/RiderProjects/Reactivities/Persistence/obj/Debug/net8.0/refint/Persistence.dll
+/home/dan/RiderProjects/Reactivities/Persistence/obj/Debug/net8.0/Persistence.pdb
+/home/dan/RiderProjects/Reactivities/Persistence/obj/Debug/net8.0/ref/Persistence.dll
